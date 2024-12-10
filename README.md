@@ -6,7 +6,7 @@ Welcome to my GitHub profile, I am a Fullstack developer passionate about buildi
 - 🔭 I’m currently working on **Flutter & React projects**.
 - 🌱 I’m currently learning **Golang and TypeScript**.
 - 💬 Ask me about **JavaScript, Laravel, and web development**.
-- 📫 How to reach me: [tomflutter](mailto:iwtriplet@asia.com) |
+- 📫 How to reach me: [tomflutter](mailto:tomflutter@sourcecode.biz.id) |
 
 ## 🛠️ Languages and Tools:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
@@ -22,8 +22,8 @@ Welcome to my GitHub profile, I am a Fullstack developer passionate about buildi
 ![Tomflutter's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomflutter&show_icons=true&count_private=true&hide_title=true&hide=prs)
 
 ## 🌐 Let's Connect:
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/)
-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=uTHv1_cQySQ)
+- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/codedart00)
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=FzUpQo0mpQY)
 - [![Pub.dev](https://img.shields.io/badge/Pub.dev-42A5F5?style=flat&logo=dart&logoColor=white)](https://pub.dev/packages/tombutton)
 
 
