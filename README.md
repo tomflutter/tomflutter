@@ -3,7 +3,7 @@
   alt="header"/>
 </div>
 
-<h4 align="center"> | Conten Creator📱|💻 Freelancer |
+<h4 align="center"> |💻 Freelancer |
 </h4> 
 
 ## 🛠️ Languages and Tools:
