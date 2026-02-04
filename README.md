@@ -1,5 +1,5 @@
-<h4 align="center"> |💻 Freelancer |
-</h4> 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=Hi%2C+It's+Tomflutter!;Full-Stack+Developer;Tech+enthusiast;and+an+Open-Source+Supporter)](https://git.io/typing-svg)
+</h1> 
 
 <h2 align="center">👨‍💻 Skill Tech</h2>
 
@@ -51,10 +51,11 @@
 </p>
 
 
-
-
-
 ## 📈 GitHub Stats
+
+[![global](https://github.com/user-attachments/assets/41f4345b-6dcf-4308-8792-7908ab52b671)](https://stardev.io/developers/Tomflutter#global-badge)
+
+
 
 <p align="center">
 <a href="https://github.com/tomflutter">
@@ -64,9 +65,8 @@
 </p>
 
 ## 🌐 Let's Connect:
-- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/codedart00)
-- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://www.youtube.com/watch?v=FzUpQo0mpQY)
-- [![Pub.dev](https://img.shields.io/badge/Pub.dev-42A5F5?style=flat&logo=dart&logoColor=white)](https://pub.dev/packages/tombutton)
 
-
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tomflutter)
+- [![Website](https://img.shields.io/badge/Website-4CAF50?style=flat&logo=google-chrome&logoColor=white)](https://sourcecodeai.biz.id/)
+- [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tomflutter@sourcecodeai.biz.id)
 
