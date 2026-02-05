@@ -1,5 +1,13 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=26&color=%23DFC6B4&center=true&vCenter=true&lines=Hi%2C+It's+Tomflutter!;Full-Stack+Developer;Tech+enthusiast;and+an+Open-Source+Supporter)](https://git.io/typing-svg)
-</h1> 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&size=40&color=%23DFC6B4&center=true&vCenter=true&lines=Hi%2C+saya+Tomflutter!;Full-Stack+Developer;Penggemar+Teknologi;Dan+Pendukung+Open-Source" alt="Typing SVG">
+  </a>
+</p>
+<p align="center">
+  <a href="https://pub.dev/packages/tomqrcode">
+    <img src="https://img.shields.io/pub/v/tomqrcode?color=blue&label=Pub.dev&logo=dart&logoColor=white" alt="tomqrcode package on pub.dev"/>
+  </a>
+</p>
 
 <h2 align="center">👨‍💻 Skill Tech</h2>
 
@@ -53,16 +61,22 @@
 
 ## 📈 GitHub Stats
 
-[![global](https://github.com/user-attachments/assets/41f4345b-6dcf-4308-8792-7908ab52b671)](https://stardev.io/developers/Tomflutter#global-badge)
-
-
-
 <p align="center">
+  <a href="https://stardev.io/developers/Tomflutter#global-badge">
+    <img src="https://github.com/user-attachments/assets/41f4345b-6dcf-4308-8792-7908ab52b671" alt="global" />
+  </a>
+</p>
+
+<br>
+
+
+<!-- GitHub Stats -->
 <a href="https://github.com/tomflutter">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tomflutter&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tomflutter&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
 
 ## 🌐 Let's Connect:
 
