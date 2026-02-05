@@ -7,6 +7,10 @@
   <a href="https://pub.dev/packages/tomqrcode">
     <img src="https://img.shields.io/pub/v/tomqrcode?color=blue&label=Pub.dev&logo=dart&logoColor=white" alt="tomqrcode package on pub.dev"/>
   </a>
+  <!-- Donate badge -->
+<a href="https://www.nihbuatjajan.com/tomflutter">
+  <img src="https://img.shields.io/badge/Donasi-Support%20Me-green?style=flat&logo=ko-fi" alt="Donasi Tomflutter"/>
+</a>
 </p>
 
 <h2 align="center">👨‍💻 Skill Tech</h2>
