@@ -66,12 +66,13 @@
 ## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://stardev.io/developers/Tomflutter#global-badge">
-    <img src="https://github.com/user-attachments/assets/41f4345b-6dcf-4308-8792-7908ab52b671" alt="global" />
+  <a href="https://stardev.io/developers/tomflutter">
+    <img src="https://github.com/user-attachments/assets/221b47da-6afc-4216-87c7-629b7fc9c8a3" alt="global" />
   </a>
 </p>
 
 <br>
+
 
 
 <!-- GitHub Stats -->
