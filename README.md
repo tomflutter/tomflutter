@@ -67,7 +67,7 @@
 
 <p align="center">
   <a href="https://stardev.io/developers/tomflutter">
-    <img src="https://github.com/user-attachments/assets/221b47da-6afc-4216-87c7-629b7fc9c8a3" alt="global" />
+    <img src="https://github.com/user-attachments/assets/1997e9e6-2159-446a-bdc7-8cf4738231c1" alt="global" />
   </a>
 </p>
 
