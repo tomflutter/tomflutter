@@ -7,10 +7,16 @@
   <a href="https://pub.dev/packages/tomqrcode">
     <img src="https://img.shields.io/pub/v/tomqrcode?color=blue&label=Pub.dev&logo=dart&logoColor=white" alt="tomqrcode package on pub.dev"/>
   </a>
-  <!-- Donate badge -->
-<a href="https://www.nihbuatjajan.com/tomflutter">
-  <img src="https://img.shields.io/badge/Donasi-Support%20Me-green?style=flat&logo=ko-fi" alt="Donasi Tomflutter"/>
-</a>
+
+  <!-- Donasi Nihbuatjajan -->
+  <a href="https://www.nihbuatjajan.com/tomflutter">
+    <img src="https://img.shields.io/badge/Donasi-Support%20Me-green?style=flat&logo=ko-fi" alt="Donasi Tomflutter"/>
+  </a>
+
+  <!-- PayPal Donate -->
+  <a href="https://paypal.me/tomyradea4">
+    <img src="https://img.shields.io/badge/Donate-PayPal-00457C?style=flat&logo=paypal&logoColor=white" alt="Donate via PayPal"/>
+  </a>
 </p>
 
 <h2 align="center">👨‍💻 Skill Tech</h2>
